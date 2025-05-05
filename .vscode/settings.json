@@ -1,3 +1,7 @@
-{
-    "commentTranslate.targetLanguage": "fr"
+
+{    
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "C:/Users/julie/OneDrive - CentraleSupelec/casablanca/COURS/ML/PROJET LIL/"
+    }
+
 }
